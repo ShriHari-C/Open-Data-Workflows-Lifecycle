@@ -1,1 +1,5 @@
 # Open-Data-Workflows-Lifecycle
+
+This Project Explores the life satisfaction across different type of age group and explore its relationship based on financial satisfaction by using an available open dataset from “DATA.GOV.IE” and it was published by central statistic office. The study covers the structured open data workflow approach, which includes data acquisition, data cleaning, transformation, analysis and data visualization using Python. 
+By using the python tool, exploratory data analysis(EDA) and statistical techniques are used to uncover the patterns in life satisfaction levels with the help of plots and charts. The findings shows the positive satisfaction between financial and overall life satisfaction comparing with different age groups like younger, middle aged shows different satisfaction trends compare to older population 
+This study highlights the importance of reproducibility workflow, transparency and open data FAIR principles in open data research and demonstrates how structured workflow can produce reliable and interpretable insights. 
